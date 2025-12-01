@@ -1,0 +1,36 @@
+{
+  "pointsofinterest": [
+    {
+      "type": "groundstation",
+      "min_elevation_angle": 20,
+      "latitude": 45.0,
+      "longitude": 40.0
+    },
+    {
+      "type": "area",
+      "vertices": [
+        {
+          "latitude": 34.0,
+          "longitude": 8.0
+        },
+        {
+          "latitude": 34.0,
+          "longitude": 30.0
+        },
+        {
+          "latitude": 42.0,
+          "longitude": 30.0
+        },
+        {
+          "latitude": 42.0,
+          "longitude": 8.0
+        },
+        {
+          "latitude": 34.0,
+          "longitude": 8.0
+        }
+      ]
+      }
+    ]
+  }
+  

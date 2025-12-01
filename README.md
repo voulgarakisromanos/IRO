@@ -1,1 +1,1 @@
-]instantiate
+To initialize press `]` to enter `pkg` mode and run `instantiate`.
